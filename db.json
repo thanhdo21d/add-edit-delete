@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Iphone 11",
+      "categories": "Điện thoại",
+      "description": "",
+      "image": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142438/anhhtus/%C4%90%E1%BB%81%20thi/3_225_c6ncpa.jpg",
+      "price": 10000000
+    },
+    {
+      "id": 3,
+      "name": "Iphone 11",
+      "categories": "Điện thoại",
+      "description": "",
+      "image": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142438/anhhtus/%C4%90%E1%BB%81%20thi/3_225_c6ncpa.jpg",
+      "price": 10000000
+    },
+    {
+      "name": "cúp c1",
+      "categories": "wibu",
+      "description": "werthgfd",
+      "image": "https://gamek.mediacdn.vn/133514250583805952/2022/4/18/acm2-16502748005111277411110.jpg",
+      "price": "8888",
+      "id": 4
+    }
+  ]
+}
